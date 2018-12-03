@@ -1,0 +1,40 @@
+html,body {
+    font-size: 0;
+    padding: 0;
+    height: 100%;
+  }
+  .row {
+    height: 100%;
+  }
+  .box {
+    display:list-item;
+    width: 100%;
+    height: 100%;
+    box-sizing: inherit;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  .red {
+    background: red;
+  }
+  
+  .blue {
+    background: blue;
+  }
+  
+  
+  .text {
+      align:center;
+  }
+  .heading {
+    font-size: 30px;
+  }
+  .heading:hover {
+    background:black;
+  }
+  h1 {
+    text-align: center
+    }
